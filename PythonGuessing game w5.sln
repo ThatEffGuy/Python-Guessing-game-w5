@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonGuessing game w5", "PythonGuessing game w5\PythonGuessing game w5.pyproj", "{59EC9B88-8D17-4C96-BCB3-B11C3E33C30E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonPassword W5", "..\PythonPassword W5\PythonPassword W5\PythonPassword W5.pyproj", "{A4AFAF03-E33C-4325-815E-960DAA2D3691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59EC9B88-8D17-4C96-BCB3-B11C3E33C30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EC9B88-8D17-4C96-BCB3-B11C3E33C30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4AFAF03-E33C-4325-815E-960DAA2D3691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4AFAF03-E33C-4325-815E-960DAA2D3691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D681D8D0-59AB-4FF4-8ADE-4C1C5A85979C}
+	EndGlobalSection
+EndGlobal
